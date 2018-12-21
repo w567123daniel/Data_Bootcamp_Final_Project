@@ -1,6 +1,6 @@
 # Data_Bootcamp_Final_Project
 
-This project was completed by Daniel Fridman and Samantha Ruilova Vallejo in partial fullment of ECON-UB.0232, Data Bootcamp, Spring 2018. I certify that the NYU Stern Honor Code applies to this project.
+This project was completed by Daniel Fridman and Samantha Ruilova Vallejo in partial fullment of ECON-UB.0232, Data Bootcamp, Fall 2018. I certify that the NYU Stern Honor Code applies to this project.
 
 In particular, I have:
 Clearly acknowledged the work and efforts of others when submitting written work as our own.
